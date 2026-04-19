@@ -46,9 +46,15 @@ Documents/
 # Node
 node_modules/
 npm-debug.log
+.next/
+out/
+dist/
 
 # Environment
 .env
 .env.local
 *.pem
+
+# Build
+.cache/
 ../*
