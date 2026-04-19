@@ -1,0 +1,38 @@
+{
+  "metrics": {
+    "hallucination_rate": 0.45,
+    "numeric_accuracy": 0.9167,
+    "answer_completeness": 0.8292,
+    "dangerous_error_rate": 0.0,
+    "avg_confidence": 0.8635,
+    "avg_response_time": 0.5412,
+    "total_evaluated": 20,
+    "total_eval_time": 10.83
+  },
+  "category_breakdown": {
+    "Cardiology": {
+      "hallucination_rate": 0.5,
+      "numeric_accuracy": 0.9,
+      "answer_completeness": 0.775,
+      "dangerous_error_rate": 0.0,
+      "avg_confidence": 0.858,
+      "avg_response_time": 1.0578,
+      "total_evaluated": 10
+    },
+    "Endocrinology": {
+      "hallucination_rate": 0.4,
+      "numeric_accuracy": 0.9286,
+      "answer_completeness": 0.8833,
+      "dangerous_error_rate": 0.0,
+      "avg_confidence": 0.869,
+      "avg_response_time": 0.0246,
+      "total_evaluated": 10
+    }
+  },
+  "config": {
+    "mode": "demo",
+    "model": "gpt-4o-mini",
+    "total_questions": 20,
+    "total_time": 10.825281381607056
+  }
+}
