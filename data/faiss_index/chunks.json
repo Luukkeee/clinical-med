@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "68336edb6f15",
+    "text": "Blood pressure classification: Normal BP is less than 120/80 mmHg. Elevated BP is 120-129/<80 mmHg. Stage 1 hypertension is 130-139/80-89 mmHg. Stage 2 hypertension is 140/90 mmHg or higher. Hypertensive crisis is greater than 180/120 mmHg. Diagnosis requires at least 2 readings on 2 or more separate occasions. Ambulatory blood pressure monitoring (ABPM) is recommended for confirming diagnosis. White coat hypertension occurs in 15-30% of patients with elevated office BP.",
+    "section": "Classification and Diagnosis",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 475
+  },
+  {
+    "id": "584d9d9d5637",
+    "text": "Masked hypertension is present in 10-15% of patients with normal office BP.",
+    "section": "Classification and Diagnosis",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 75
+  },
+  {
+    "id": "5b31df4dd199",
+    "text": "For Stage 1 hypertension without compelling indications, lifestyle modifications are recommended for 3-6 months before pharmacotherapy. First-line medications include: ACE inhibitors (e.g., lisinopril 10-40 mg daily, enalapril 5-40 mg daily), ARBs (e.g., losartan 50-100 mg daily, valsartan 80-320 mg daily), calcium channel blockers (e.g., amlodipine 2.5-10 mg daily, nifedipine ER 30-90 mg daily), or thiazide diuretics (e.g., hydrochlorothiazide 12.5-50 mg daily, chlorthalidone 12.5-25 mg daily).",
+    "section": "First-Line Treatment",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 500
+  },
+  {
+    "id": "ff9e0ac32694",
+    "text": "For Stage 2 hypertension, initiate two first-line agents of different classes. Target BP is less than 130/80 mmHg for most adults.",
+    "section": "First-Line Treatment",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 130
+  },
+  {
+    "id": "5511ff240087",
+    "text": "DASH diet can reduce systolic BP by 8-14 mmHg. Sodium restriction to less than 2300 mg/day, ideally less than 1500 mg/day, reduces BP by 2-8 mmHg. Weight loss of 1 kg reduces BP by approximately 1 mmHg. Regular aerobic exercise (150 minutes per week moderate intensity) reduces BP by 4-9 mmHg. Limiting alcohol to 2 or fewer drinks per day for men and 1 or fewer for women reduces BP by 2-4 mmHg. Smoking cessation is essential for cardiovascular risk reduction.",
+    "section": "Lifestyle Modifications",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 462
+  },
+  {
+    "id": "61f3c707cd5c",
+    "text": "In patients with CKD, ACE inhibitors or ARBs are preferred, especially with proteinuria. Target BP in CKD is less than 130/80 mmHg. In diabetes, ACE inhibitors or ARBs are first-line. In heart failure with reduced ejection fraction, use ACE inhibitors/ARBs, beta-blockers, and diuretics. In African American patients without CKD, thiazide diuretics or CCBs are preferred initial therapy. In pregnancy, labetalol, nifedipine, and methyldopa are safe options. ACE inhibitors and ARBs are contraindicated in pregnancy.",
+    "section": "Special Populations",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 515
+  },
+  {
+    "id": "51f83282b0d3",
+    "text": "In elderly patients over 65, target systolic BP is less than 130 mmHg if tolerated.",
+    "section": "Special Populations",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 83
+  },
+  {
+    "id": "917393249263",
+    "text": "After initiating therapy, follow up in 4-6 weeks. Monitor serum creatinine and potassium within 1-2 weeks of starting ACE inhibitors or ARBs. If BP is not at goal, increase dose or add a second agent. Check for orthostatic hypotension, especially in elderly. Monitor for side effects: ACE inhibitors can cause cough (5-20% of patients) and angioedema (0.1-0.7%). ARBs have lower cough rates. CCBs may cause peripheral edema. Thiazide diuretics can cause hypokalemia, hyperuricemia, and hyperglycemia.",
+    "section": "Monitoring and Follow-Up",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 500
+  },
+  {
+    "id": "35f264a41a92",
+    "text": "Hypertensive emergency is BP greater than 180/120 mmHg with evidence of end-organ damage. Immediate IV therapy is required. First-line IV agents: nicardipine 5-15 mg/hr, labetalol 0.5-2 mg/min, or sodium nitroprusside 0.25-10 mcg/kg/min. Goal: reduce MAP by no more than 25% in the first hour, then to 160/100 mmHg over the next 2-6 hours. Excessive BP reduction can cause ischemic stroke.",
+    "section": "Hypertensive Emergency",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 389
+  },
+  {
+    "id": "8d83365b2495",
+    "text": "Excessive BP reduction can cause ischemic stroke. In aortic dissection, target heart rate less than 60 bpm and systolic BP less than 120 mmHg within 20 minutes using esmolol and nicardipine.",
+    "section": "Hypertensive Emergency",
+    "document": "Hypertension Management Guidelines",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 190
+  },
+  {
+    "id": "36740e7039e2",
+    "text": "Diagnostic criteria for Type 2 Diabetes: Fasting plasma glucose (FPG) 126 mg/dL or higher, 2-hour plasma glucose 200 mg/dL or higher during OGTT, HbA1c 6.5% or higher, or random plasma glucose 200 mg/dL or higher with classic symptoms. Prediabetes is defined as FPG 100-125 mg/dL, 2-hour glucose 140-199 mg/dL, or HbA1c 5.7-6.4%. Screen adults aged 35+ or earlier if overweight with risk factors. Repeat screening every 3 years if normal, annually if prediabetes.",
+    "section": "Diagnosis and Screening",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 463
+  },
+  {
+    "id": "96794031b696",
+    "text": "Metformin is the first-line pharmacologic therapy for Type 2 Diabetes. Starting dose is 500 mg once or twice daily, titrated to maximum 2000 mg/day. Take with meals to reduce GI side effects. Contraindicated if eGFR less than 30 mL/min/1.73m2. Hold before iodinated contrast procedures. Rare risk of lactic acidosis. Check vitamin B12 levels periodically with long-term use. If HbA1c is not at goal after 3 months of metformin monotherapy, add a second agent.",
+    "section": "First-Line Pharmacotherapy",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 459
+  },
+  {
+    "id": "6ce63025b219",
+    "text": "Second-line options based on patient profile: SGLT2 inhibitors (empagliflozin 10-25 mg daily, dapagliflozin 5-10 mg daily) are preferred with heart failure or CKD due to cardio-renal benefits. GLP-1 receptor agonists (semaglutide 0.25-1 mg weekly, liraglutide 0.6-1.8 mg daily) are preferred with established ASCVD or obesity. DPP-4 inhibitors (sitagliptin 100 mg daily) are weight-neutral options. Sulfonylureas (glipizide 2.5-20 mg daily, glimepiride 1-4 mg daily) are effective but carry hypoglycemia risk.",
+    "section": "Second-Line and Combination Therapy",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 509
+  },
+  {
+    "id": "4f72098ec057",
+    "text": "Insulin therapy: basal insulin (glargine, detemir) when oral agents fail. Starting dose is 10 units or 0.1-0.2 units/kg/day.",
+    "section": "Second-Line and Combination Therapy",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 124
+  },
+  {
+    "id": "54ab88402f8a",
+    "text": "General HbA1c target is less than 7.0% for most adults. More stringent target of less than 6.5% for younger patients with short disease duration and no significant cardiovascular disease. Less stringent target of less than 8.0% for elderly patients, those with limited life expectancy, extensive comorbidities, or history of severe hypoglycemia. Self-monitoring of blood glucose (SMBG): fasting glucose target 80-130 mg/dL, peak postprandial glucose less than 180 mg/dL.",
+    "section": "Glycemic Targets",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 470
+  },
+  {
+    "id": "6df79f645c62",
+    "text": "Continuous glucose monitoring (CGM) is recommended for patients on insulin therapy. Time in range (70-180 mg/dL) should be greater than 70%.",
+    "section": "Glycemic Targets",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 140
+  },
+  {
+    "id": "bfe0a3745c29",
+    "text": "Retinopathy screening: dilated eye exam at diagnosis and annually thereafter. Nephropathy: check urine albumin-to-creatinine ratio (UACR) and eGFR annually. Microalbuminuria is UACR 30-300 mg/g. Macroalbuminuria is UACR greater than 300 mg/g. Neuropathy: annual comprehensive foot exam. Screen for peripheral neuropathy using monofilament testing. Cardiovascular risk: assess lipids annually, statin therapy for ages 40-75. Aspirin 75-162 mg/day for secondary prevention. BP target less than 130/80 mmHg.",
+    "section": "Complications Screening",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 504
+  },
+  {
+    "id": "afbf1cd84b16",
+    "text": "DKA diagnostic criteria: blood glucose greater than 250 mg/dL, arterial pH less than 7.3, serum bicarbonate less than 18 mEq/L, positive serum ketones. Management: IV normal saline bolus 1-1.5 L/hr initially. Insulin infusion at 0.1 units/kg/hr. Replace potassium when K+ less than 5.3 mEq/L. Add dextrose to IV fluids when glucose reaches 200-250 mg/dL. Monitor glucose hourly, electrolytes every 2-4 hours.",
+    "section": "Diabetic Ketoacidosis Prevention and Management",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 408
+  },
+  {
+    "id": "28382c47b10b",
+    "text": "Transition to subcutaneous insulin when anion gap closes, patient can eat, and overlap IV insulin for 1-2 hours.",
+    "section": "Diabetic Ketoacidosis Prevention and Management",
+    "document": "Type 2 Diabetes Management",
+    "category": "Endocrinology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 112
+  },
+  {
+    "id": "00b099b5f68e",
+    "text": "Heart failure classification by ejection fraction: HFrEF (Heart Failure with Reduced Ejection Fraction) is LVEF 40% or less. HFmrEF (Mildly Reduced) is LVEF 41-49%. HFpEF (Preserved Ejection Fraction) is LVEF 50% or greater. NYHA Functional Classification: Class I - no limitation of physical activity. Class II - slight limitation, comfortable at rest. Class III - marked limitation, comfortable only at rest. Class IV - unable to perform any physical activity without symptoms. Stage A: at risk.",
+    "section": "Classification",
+    "document": "Heart Failure Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 497
+  },
+  {
+    "id": "8fdb52a89333",
+    "text": "Stage A: at risk. Stage B: structural heart disease without symptoms. Stage C: symptomatic. Stage D: advanced/refractory.",
+    "section": "Classification",
+    "document": "Heart Failure Management",
+    "category": "Cardiology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 121
+  },
+  {
+    "id": "57902489750b",
+    "text": "Four pillars of HFrEF therapy (initiate all simultaneously when possible): 1) ACE inhibitor/ARB/ARNI: sacubitril-valsartan (ARNI) 24/26 mg to 97/103 mg twice daily is preferred over ACE inhibitors. Enalapril 2.5-20 mg twice daily as alternative. 2) Beta-blockers: carvedilol 3.125-25 mg twice daily, metoprolol succinate 12.5-200 mg daily, or bisoprolol 1.25-10 mg daily. Only use evidence-based beta-blockers.",
+    "section": "Guideline-Directed Medical Therapy for HFrEF",
+    "document": "Heart Failure Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 410
+  },
+  {
+    "id": "92c416916ba9",
+    "text": "Only use evidence-based beta-blockers. 3) Mineralocorticoid receptor antagonists (MRA): spironolactone 12.5-50 mg daily or eplerenone 25-50 mg daily. Monitor potassium closely. 4) SGLT2 inhibitors: dapagliflozin 10 mg daily or empagliflozin 10 mg daily regardless of diabetes status.",
+    "section": "Guideline-Directed Medical Therapy for HFrEF",
+    "document": "Heart Failure Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 283
+  },
+  {
+    "id": "e0b9baa644c6",
+    "text": "Loop diuretics for volume management: furosemide 20-600 mg/day, bumetanide 0.5-10 mg/day, or torsemide 10-200 mg/day. Start at lowest effective dose. Adjust based on daily weights and fluid status. Target euvolemia. Monitor renal function and electrolytes. For diuretic resistance: increase dose, switch from furosemide to torsemide (better oral bioavailability), add metolazone 2.5-5 mg 30 minutes before loop diuretic, or consider IV diuretics. Thiazide diuretics can be used as add-on for synergistic effect.",
+    "section": "Diuretic Therapy",
+    "document": "Heart Failure Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 511
+  },
+  {
+    "id": "29bcf94a7837",
+    "text": "ICD (Implantable Cardioverter-Defibrillator): indicated for primary prevention in patients with LVEF 35% or less, NYHA Class II-III, on optimal medical therapy for at least 3 months. CRT (Cardiac Resynchronization Therapy): indicated for LVEF 35% or less, LBBB with QRS 150 ms or greater, NYHA Class II-IV on optimal therapy. CRT may also be considered for QRS 120-149 ms with LBBB. CRT-D combines both functions. Evaluate for device therapy after at least 3 months of optimized medical therapy.",
+    "section": "Device Therapy",
+    "document": "Heart Failure Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 495
+  },
+  {
+    "id": "0c704941c1b0",
+    "text": "Initial assessment: obtain BNP or NT-proBNP (BNP greater than 100 pg/mL or NT-proBNP greater than 300 pg/mL suggests HF). IV loop diuretics: give 1-2.5 times the patient's home oral dose as IV. If inadequate response in 2-4 hours, double the dose. For patients with systolic BP greater than 90 mmHg with congestion, consider IV vasodilators: nitroglycerin 5-200 mcg/min or nitroprusside 0.3-5 mcg/kg/min.",
+    "section": "Acute Decompensated Heart Failure",
+    "document": "Heart Failure Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 404
+  },
+  {
+    "id": "66465b45f73b",
+    "text": "For cardiogenic shock with systolic BP less than 90 mmHg: dobutamine 2.5-20 mcg/kg/min or milrinone 0.375-0.75 mcg/kg/min. Avoid routine inotrope use.",
+    "section": "Acute Decompensated Heart Failure",
+    "document": "Heart Failure Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 150
+  },
+  {
+    "id": "2cca0f635dff",
+    "text": "Acute Coronary Syndrome (ACS) includes STEMI, NSTEMI, and unstable angina. STEMI diagnosis: ST elevation of 1 mm or greater in 2 or more contiguous leads, or new LBBB with clinical symptoms. NSTEMI: elevated troponin with ischemic symptoms but without ST elevation. Unstable angina: ischemic symptoms without troponin elevation. High-sensitivity troponin I or T should be measured at presentation and 3-6 hours later. ECG should be obtained within 10 minutes of first medical contact.",
+    "section": "Diagnosis and Classification",
+    "document": "Acute Coronary Syndrome Management",
+    "category": "Cardiology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 484
+  },
+  {
+    "id": "ce7ead11dd7d",
+    "text": "Door-to-balloon time target: less than 90 minutes for primary PCI. If PCI not available within 120 minutes, administer fibrinolytic therapy within 30 minutes (door-to-needle). Fibrinolytics: alteplase (tPA) 15 mg IV bolus then 0.75 mg/kg over 30 min (max 50 mg) then 0.5 mg/kg over 60 min (max 35 mg). Tenecteplase: weight-based single IV bolus. Contraindications: active bleeding, prior intracranial hemorrhage, ischemic stroke within 3 months, suspected aortic dissection.",
+    "section": "STEMI Management",
+    "document": "Acute Coronary Syndrome Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 474
+  },
+  {
+    "id": "058c8979d116",
+    "text": "Adjunctive therapy: aspirin 325 mg chewed immediately, P2Y12 inhibitor (ticagrelor 180 mg or clopidogrel 600 mg loading dose), anticoagulation with unfractionated heparin.",
+    "section": "STEMI Management",
+    "document": "Acute Coronary Syndrome Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 171
+  },
+  {
+    "id": "d6b280f19053",
+    "text": "Risk stratification using TIMI or GRACE score. Anti-ischemic therapy: nitroglycerin 0.4 mg sublingual every 5 minutes up to 3 doses, then consider IV infusion. Beta-blockers within 24 hours if no contraindications. Morphine for refractory chest pain. Antiplatelet therapy: aspirin 162-325 mg loading then 81 mg daily. P2Y12 inhibitor: ticagrelor 180 mg load then 90 mg twice daily (preferred), or clopidogrel 300-600 mg load then 75 mg daily.",
+    "section": "NSTEMI and Unstable Angina",
+    "document": "Acute Coronary Syndrome Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 442
+  },
+  {
+    "id": "835fbc9cfb25",
+    "text": "Anticoagulation: enoxaparin 1 mg/kg SubQ every 12 hours or unfractionated heparin bolus 60 units/kg then 12 units/kg/hr. Invasive strategy (catheterization) within 24-72 hours for high-risk patients.",
+    "section": "NSTEMI and Unstable Angina",
+    "document": "Acute Coronary Syndrome Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 199
+  },
+  {
+    "id": "1d97ee419fde",
+    "text": "Dual antiplatelet therapy (DAPT): aspirin 81 mg daily plus P2Y12 inhibitor for 12 months. High-intensity statin: atorvastatin 80 mg daily or rosuvastatin 20-40 mg daily. Target LDL less than 70 mg/dL, or greater than 50% reduction. Beta-blocker: continue for at least 3 years post-MI. ACE inhibitor or ARB for LVEF less than 40%, hypertension, or diabetes. Cardiac rehabilitation referral. Smoking cessation. Control BP to less than 130/80 mmHg. HbA1c less than 7% for diabetic patients.",
+    "section": "Post-ACS Secondary Prevention",
+    "document": "Acute Coronary Syndrome Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 487
+  },
+  {
+    "id": "f21609b45712",
+    "text": "Time is brain. IV alteplase (tPA) is indicated within 4.5 hours of symptom onset. Dose: 0.9 mg/kg (max 90 mg), 10% as IV bolus over 1 minute, remainder infused over 60 minutes. Eligibility: measurable neurological deficit, CT without hemorrhage, no recent surgery within 14 days. BP must be less than 185/110 mmHg before and during tPA administration. Manage BP with labetalol 10-20 mg IV or nicardipine infusion. Mechanical thrombectomy for large vessel occlusion within 24 hours with appropriate imaging selection.",
+    "section": "Acute Ischemic Stroke",
+    "document": "Stroke Management",
+    "category": "Neurology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 516
+  },
+  {
+    "id": "c79bb95aa279",
+    "text": "NIH Stroke Scale (NIHSS) should be performed at presentation.",
+    "section": "Acute Ischemic Stroke",
+    "document": "Stroke Management",
+    "category": "Neurology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 61
+  },
+  {
+    "id": "b14c599c42d0",
+    "text": "Intracerebral hemorrhage (ICH) management: immediate BP reduction to less than 140 mmHg systolic using IV nicardipine or labetalol. Reverse anticoagulation: for warfarin, give IV vitamin K 10 mg plus 4-factor PCC (25-50 units/kg). For dabigatran, give idarucizumab 5 g IV. For rivaroxaban/apixaban, give andexanet alfa. Platelet transfusion is NOT recommended for antiplatelet-associated ICH. Surgical evacuation may be considered for cerebellar hemorrhage greater than 3 cm with neurological deterioration.",
+    "section": "Hemorrhagic Stroke",
+    "document": "Stroke Management",
+    "category": "Neurology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 507
+  },
+  {
+    "id": "0719d62eaa0e",
+    "text": "Monitor ICP and consider osmotic therapy (mannitol 0.25-1 g/kg or hypertonic saline 3%).",
+    "section": "Hemorrhagic Stroke",
+    "document": "Stroke Management",
+    "category": "Neurology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 88
+  },
+  {
+    "id": "26b5a0489d9d",
+    "text": "For non-cardioembolic ischemic stroke: antiplatelet therapy with aspirin 50-325 mg daily, or clopidogrel 75 mg daily, or aspirin 25 mg + dipyridamole ER 200 mg twice daily. DAPT (aspirin + clopidogrel) for 21 days after minor stroke or high-risk TIA, then single antiplatelet. For cardioembolic stroke (atrial fibrillation): anticoagulation with DOAC preferred: apixaban 5 mg twice daily, rivaroxaban 20 mg daily, dabigatran 150 mg twice daily, or edoxaban 60 mg daily.",
+    "section": "Secondary Prevention",
+    "document": "Stroke Management",
+    "category": "Neurology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 469
+  },
+  {
+    "id": "aabb8fc1c144",
+    "text": "Start anticoagulation at 4-14 days post-stroke depending on infarct size. Statin therapy: high-intensity atorvastatin or rosuvastatin. BP target less than 130/80 mmHg after the acute phase.",
+    "section": "Secondary Prevention",
+    "document": "Stroke Management",
+    "category": "Neurology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 189
+  },
+  {
+    "id": "65f6eac62dd7",
+    "text": "Transient ischemic attack (TIA) is a neurological emergency with high short-term stroke risk. ABCD2 score for risk stratification: Age 60+ (1 point), BP 140/90+ (1 point), Clinical features (unilateral weakness 2 points, speech impairment 1 point), Duration (60+ min 2 points, 10-59 min 1 point), Diabetes (1 point). Score 4+ requires urgent workup. Immediate brain imaging (CT or MRI), vascular imaging (CTA or MRA), cardiac evaluation (ECG, echocardiogram, telemetry). Start antiplatelet therapy immediately.",
+    "section": "TIA Management",
+    "document": "Stroke Management",
+    "category": "Neurology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 510
+  },
+  {
+    "id": "a14844043f5e",
+    "text": "Start antiplatelet therapy immediately. DAPT for 21 days if ABCD2 score 4 or higher. Complete workup within 24-48 hours.",
+    "section": "TIA Management",
+    "document": "Stroke Management",
+    "category": "Neurology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 120
+  },
+  {
+    "id": "57918752fdef",
+    "text": "Intermittent asthma: symptoms 2 days/week or less, nighttime awakenings 2x/month or less, SABA use 2 days/week or less, no interference with normal activity, FEV1 greater than 80% predicted. Mild persistent: symptoms more than 2 days/week but not daily, nighttime awakenings 3-4x/month, FEV1 greater than 80%. Moderate persistent: daily symptoms, nighttime awakenings more than 1x/week, daily SABA use, FEV1 60-80%.",
+    "section": "Classification of Severity",
+    "document": "Asthma Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 415
+  },
+  {
+    "id": "e716e1a55002",
+    "text": "Severe persistent: symptoms throughout the day, nighttime awakenings often 7x/week, extremely limited activity, FEV1 less than 60%.",
+    "section": "Classification of Severity",
+    "document": "Asthma Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 131
+  },
+  {
+    "id": "4ea33ac5b85a",
+    "text": "Step 1 (Intermittent): PRN low-dose ICS-formoterol or PRN SABA. Step 2 (Mild persistent): daily low-dose ICS (e.g., budesonide 200-400 mcg/day, fluticasone 100-250 mcg/day) plus PRN SABA. Step 3 (Moderate): low-dose ICS-LABA combination (fluticasone/salmeterol 250/50 mcg, budesonide/formoterol 200/6 mcg) twice daily. Step 4: medium-dose ICS-LABA (fluticasone/salmeterol 500/50 mcg, budesonide/formoterol 400/12 mcg).",
+    "section": "Stepwise Treatment",
+    "document": "Asthma Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 418
+  },
+  {
+    "id": "88ce8828c5b3",
+    "text": "Step 5: high-dose ICS-LABA plus add-on therapy (tiotropium 2.5 mcg, anti-IgE omalizumab, anti-IL5 mepolizumab, or oral corticosteroids). Step 6: high-dose ICS-LABA plus oral corticosteroids.",
+    "section": "Stepwise Treatment",
+    "document": "Asthma Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 190
+  },
+  {
+    "id": "49f27fd161bf",
+    "text": "Mild-moderate exacerbation: albuterol 2.5-5 mg nebulized or 4-8 puffs MDI every 20 minutes for 3 doses, then every 1-4 hours. Ipratropium 0.5 mg nebulized with first 3 albuterol treatments. Systemic corticosteroids: prednisone 40-60 mg daily for 5-7 days (adults). Severe exacerbation: continuous albuterol nebulization 10-15 mg/hour. IV magnesium sulfate 2 g over 20 minutes for severe exacerbation not responding to initial treatment. Assess for intubation if no improvement.",
+    "section": "Acute Exacerbation Management",
+    "document": "Asthma Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 477
+  },
+  {
+    "id": "e91d5586971c",
+    "text": "Assess for intubation if no improvement. Monitor oxygen saturation, target SpO2 93-95%. Obtain ABG if SpO2 less than 92%.",
+    "section": "Acute Exacerbation Management",
+    "document": "Asthma Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 121
+  },
+  {
+    "id": "6984c1999fea",
+    "text": "Well-controlled asthma: symptoms 2 or fewer days/week, no nighttime awakenings, no interference with activity, SABA use 2 or fewer days/week, FEV1 greater than 80%, ACT score 20 or higher. Assess control every 1-6 months. Step up if not well-controlled for 2-6 weeks. Step down if well-controlled for at least 3 months. Spirometry at baseline, after treatment initiation, and every 1-2 years. Provide written asthma action plan. Assess inhaler technique at every visit.",
+    "section": "Monitoring and Control",
+    "document": "Asthma Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 469
+  },
+  {
+    "id": "9fcb8f2a7274",
+    "text": "COPD diagnosis requires spirometry: post-bronchodilator FEV1/FVC less than 0.70 confirms airflow limitation. GOLD staging by FEV1: GOLD 1 (Mild) FEV1 80% or greater predicted. GOLD 2 (Moderate) FEV1 50-79%. GOLD 3 (Severe) FEV1 30-49%. GOLD 4 (Very Severe) FEV1 less than 30%. Group classification: Group A - low risk, less symptoms (0-1 exacerbation/year, mMRC 0-1). Group B - low risk, more symptoms (0-1 exacerbation/year, mMRC 2+). Group E - high risk (2+ exacerbations or 1+ hospitalization).",
+    "section": "Diagnosis and Staging",
+    "document": "COPD Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 497
+  },
+  {
+    "id": "dbab79b0e5ec",
+    "text": "Group A: short-acting bronchodilator PRN (albuterol or ipratropium). Group B: long-acting bronchodilator - LAMA (tiotropium 18 mcg daily) or LABA (salmeterol 50 mcg twice daily, indacaterol 75 mcg daily). Group E: LAMA + LABA combination (tiotropium/olodaterol, umeclidinium/vilanterol). If eosinophils 300+ cells/mcL, add ICS: triple therapy (ICS + LAMA + LABA, e.g., fluticasone/umeclidinium/vilanterol). Roflumilast 500 mcg daily as add-on for frequent exacerbations with FEV1 less than 50%.",
+    "section": "Pharmacotherapy",
+    "document": "COPD Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 494
+  },
+  {
+    "id": "0e8466c451e3",
+    "text": "Azithromycin 250 mg daily for exacerbation prevention in former smokers.",
+    "section": "Pharmacotherapy",
+    "document": "COPD Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 72
+  },
+  {
+    "id": "cae342ec6345",
+    "text": "Increased dyspnea, sputum volume, and sputum purulence. Short-acting bronchodilators: albuterol 2.5 mg + ipratropium 0.5 mg nebulized every 4-6 hours. Systemic corticosteroids: prednisone 40 mg daily for 5 days. Antibiotics if increased sputum purulence: amoxicillin-clavulanate 875/125 mg twice daily, azithromycin 500 mg day 1 then 250 mg for 4 days, or doxycycline 100 mg twice daily for 5-7 days. Supplemental oxygen: target SpO2 88-92% to avoid hypercapnia.",
+    "section": "Acute COPD Exacerbation",
+    "document": "COPD Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 462
+  },
+  {
+    "id": "f9607ef5603f",
+    "text": "Non-invasive ventilation (BiPAP) for respiratory acidosis (pH less than 7.35). Intubation if NIV fails or severe respiratory failure.",
+    "section": "Acute COPD Exacerbation",
+    "document": "COPD Management",
+    "category": "Pulmonology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 133
+  },
+  {
+    "id": "f36de2e19225",
+    "text": "Smoking cessation is the single most effective intervention. Pharmacotherapy for smoking cessation: varenicline 1 mg twice daily for 12 weeks (most effective), nicotine replacement therapy, or bupropion 150 mg twice daily. Pulmonary rehabilitation for GOLD 2-4: 6-12 week outpatient program improves exercise capacity and quality of life. Annual influenza vaccination. Pneumococcal vaccines: PCV20 or PCV15 followed by PPSV23. COVID-19 vaccination.",
+    "section": "Non-Pharmacological Management",
+    "document": "COPD Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 448
+  },
+  {
+    "id": "0c911052411b",
+    "text": "COVID-19 vaccination. Supplemental oxygen if PaO2 less than 55 mmHg or SpO2 less than 88% at rest.",
+    "section": "Non-Pharmacological Management",
+    "document": "COPD Management",
+    "category": "Pulmonology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 98
+  },
+  {
+    "id": "5d5d538bc439",
+    "text": "Sepsis: life-threatening organ dysfunction caused by a dysregulated host response to infection. Defined as suspected/documented infection plus acute increase in SOFA score of 2 or more points. qSOFA screening (2 of 3): respiratory rate 22 or higher, altered mentation (GCS less than 15), systolic BP 100 mmHg or less. Septic shock: sepsis plus vasopressor requirement to maintain MAP 65 mmHg or greater AND lactate greater than 2 mmol/L despite adequate volume resuscitation. Sepsis mortality ranges from 10-40%.",
+    "section": "Definition and Recognition",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 512
+  },
+  {
+    "id": "d5ce6d622326",
+    "text": "Sepsis mortality ranges from 10-40%. Septic shock mortality 40-60%.",
+    "section": "Definition and Recognition",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 67
+  },
+  {
+    "id": "fdcdcf2ce369",
+    "text": "Measure lactate level. If lactate greater than 2 mmol/L, remeasure within 2-4 hours. Obtain blood cultures before antibiotics (at least 2 sets, aerobic and anaerobic). Administer broad-spectrum antibiotics within 1 hour of recognition. Begin rapid IV crystalloid administration: 30 mL/kg within 3 hours for hypotension or lactate 4 mmol/L or greater. Use balanced crystalloids (Lactated Ringer's) preferred over normal saline.",
+    "section": "Hour-1 Bundle",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 426
+  },
+  {
+    "id": "ab7c846e2195",
+    "text": "Apply vasopressors if hypotensive during or after fluid resuscitation to maintain MAP 65 mmHg or greater.",
+    "section": "Hour-1 Bundle",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 105
+  },
+  {
+    "id": "bfd3aeee9da9",
+    "text": "Empiric broad-spectrum therapy: For community-acquired sepsis: piperacillin-tazobactam 4.5 g IV every 6 hours, or meropenem 1 g IV every 8 hours if high ESBL risk. For healthcare-associated: meropenem or cefepime 2 g IV every 8 hours plus vancomycin 15-20 mg/kg IV every 8-12 hours for MRSA coverage. For suspected fungal: add micafungin 100 mg IV daily. Narrow antibiotics based on culture results. De-escalate within 48-72 hours. Typical antibiotic duration: 7-10 days.",
+    "section": "Antibiotic Selection",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 471
+  },
+  {
+    "id": "e9bd73c4570c",
+    "text": "Typical antibiotic duration: 7-10 days. Procalcitonin less than 0.5 ng/mL supports antibiotic discontinuation.",
+    "section": "Antibiotic Selection",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 110
+  },
+  {
+    "id": "0e702ed8a6f3",
+    "text": "First-line vasopressor: norepinephrine 0.1-2 mcg/kg/min to maintain MAP 65 mmHg or greater. Second-line: vasopressin 0.03 units/min (fixed dose) added to norepinephrine. Third-line: epinephrine 0.1-1 mcg/kg/min if inadequate response. For sepsis-induced cardiac dysfunction: dobutamine 2.5-20 mcg/kg/min. Avoid dopamine except in patients with bradycardia and low risk of tachyarrhythmias. Monitor with arterial line for continuous BP. Central venous catheter for vasopressor administration.",
+    "section": "Vasopressor and Hemodynamic Support",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 491
+  },
+  {
+    "id": "02a616388e3c",
+    "text": "Target central venous oxygen saturation (ScvO2) 70% or greater.",
+    "section": "Vasopressor and Hemodynamic Support",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 63
+  },
+  {
+    "id": "bc8e792c0a54",
+    "text": "Corticosteroids: IV hydrocortisone 200 mg/day (50 mg every 6 hours) for refractory septic shock (vasopressor-dependent despite fluids). Taper when vasopressors discontinued. Blood glucose target: 144-180 mg/dL using insulin infusion if needed. Transfuse red blood cells when hemoglobin less than 7 g/dL (except in active hemorrhage or myocardial ischemia). Stress ulcer prophylaxis with PPI for mechanically ventilated patients. DVT prophylaxis with LMWH (enoxaparin 40 mg SubQ daily) unless contraindicated.",
+    "section": "Adjunctive Therapies",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 508
+  },
+  {
+    "id": "1cdb5dd756ad",
+    "text": "Target tidal volume 6 mL/kg predicted body weight for mechanically ventilated patients.",
+    "section": "Adjunctive Therapies",
+    "document": "Sepsis and Septic Shock Management",
+    "category": "Critical Care",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 87
+  },
+  {
+    "id": "b969a65d0425",
+    "text": "Atrial fibrillation (AF) types: Paroxysmal - terminates within 7 days. Persistent - lasts more than 7 days, requires cardioversion. Long-standing persistent - continuous for more than 12 months. Permanent - accepted by physician and patient. Diagnosis: irregularly irregular rhythm on ECG, absence of P waves, fibrillatory baseline. All patients need echocardiography to assess LV function and valve disease. Check thyroid function (TSH). Evaluate for secondary causes: alcohol, sleep apnea, hyperthyroidism.",
+    "section": "Classification and Diagnosis",
+    "document": "Atrial Fibrillation Management",
+    "category": "Cardiology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 508
+  },
+  {
+    "id": "f854cefbc059",
+    "text": "CHA2DS2-VASc score for stroke risk: Congestive HF (1), Hypertension (1), Age 75+ (2), Diabetes (1), Stroke/TIA/TE (2), Vascular disease (1), Age 65-74 (1), Sex category female (1). Anticoagulation: Score 0 (males) or 1 (females) - no anticoagulation. Score 1 (males) or 2 (females) - consider anticoagulation. Score 2+ (males) or 3+ (females) - anticoagulation recommended.",
+    "section": "Stroke Risk Assessment and Anticoagulation",
+    "document": "Atrial Fibrillation Management",
+    "category": "Cardiology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 373
+  },
+  {
+    "id": "568da1df408c",
+    "text": "DOACs preferred over warfarin: apixaban 5 mg twice daily (2.5 mg if 2 of: age 80+, weight 60 kg or less, creatinine 1.5+), rivaroxaban 20 mg daily with food, dabigatran 150 mg twice daily, edoxaban 60 mg daily. Warfarin if mechanical valve or moderate-severe mitral stenosis, target INR 2-3.",
+    "section": "Stroke Risk Assessment and Anticoagulation",
+    "document": "Atrial Fibrillation Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 291
+  },
+  {
+    "id": "0ea218cfe6bc",
+    "text": "Rate control is first-line for most patients. Target resting heart rate less than 110 bpm (lenient control) or less than 80 bpm (strict control). First-line: beta-blockers (metoprolol 25-200 mg twice daily, atenolol 25-100 mg daily) or non-dihydropyridine CCBs (diltiazem 120-360 mg daily, verapamil 120-480 mg daily). Avoid CCBs in HFrEF. Digoxin 0.125-0.25 mg daily as add-on, target level 0.5-0.9 ng/mL.",
+    "section": "Rate Control",
+    "document": "Atrial Fibrillation Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 406
+  },
+  {
+    "id": "e7d344f10e70",
+    "text": "For acute rate control: metoprolol 5 mg IV every 5 minutes up to 3 doses, or diltiazem 0.25 mg/kg IV bolus then 5-15 mg/hr infusion. Amiodarone 300 mg IV for acute rate control in HFrEF.",
+    "section": "Rate Control",
+    "document": "Atrial Fibrillation Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 186
+  },
+  {
+    "id": "ee4b10e69d93",
+    "text": "Rhythm control preferred in: symptomatic patients, younger patients, recent-onset AF, tachycardia-mediated cardiomyopathy. Cardioversion: if AF less than 48 hours, can cardiovert with anticoagulation started peri-procedurally. If AF 48+ hours or unknown duration, require 3 weeks anticoagulation before and 4 weeks after cardioversion, or TEE to exclude left atrial thrombus. Antiarrhythmics: flecainide 50-200 mg twice daily or propafenone 150-300 mg three times daily (no structural heart disease).",
+    "section": "Rhythm Control",
+    "document": "Atrial Fibrillation Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 500
+  },
+  {
+    "id": "53f7e970cb41",
+    "text": "Amiodarone 200 mg daily for maintenance (structural heart disease). Dofetilide or sotalol 80-160 mg twice daily (monitor QTc). Catheter ablation (pulmonary vein isolation) for symptomatic AF refractory to antiarrhythmic drugs or as first-line in select patients.",
+    "section": "Rhythm Control",
+    "document": "Atrial Fibrillation Management",
+    "category": "Cardiology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 262
+  },
+  {
+    "id": "13270d0a0581",
+    "text": "Deep vein thrombosis (DVT) diagnosis: Wells score for pretest probability. Moderate-high probability: compression ultrasonography. Low probability: D-dimer first (less than 500 ng/mL excludes DVT). Treatment: Anticoagulation for at least 3 months. DOACs preferred: rivaroxaban 15 mg twice daily for 21 days then 20 mg daily, or apixaban 10 mg twice daily for 7 days then 5 mg twice daily. Alternative: LMWH (enoxaparin 1 mg/kg SubQ twice daily) bridging to warfarin (INR 2-3).",
+    "section": "DVT Diagnosis and Treatment",
+    "document": "Anticoagulation and VTE Management",
+    "category": "Hematology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 476
+  },
+  {
+    "id": "cb205a6a9d73",
+    "text": "For cancer-associated VTE: LMWH or DOAC (edoxaban, rivaroxaban) for at least 6 months or until cancer is resolved.",
+    "section": "DVT Diagnosis and Treatment",
+    "document": "Anticoagulation and VTE Management",
+    "category": "Hematology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 114
+  },
+  {
+    "id": "3a5ae4dc0e46",
+    "text": "PE diagnosis: CTPA is gold standard. V/Q scan if CTPA contraindicated. Risk stratification: Massive PE (hemodynamic instability) - systemic thrombolysis with alteplase 100 mg IV over 2 hours. Submassive PE (RV dysfunction without hypotension) - anticoagulation, consider catheter-directed therapy. Low-risk PE - outpatient anticoagulation in select patients (Hestia criteria or sPESI score 0).",
+    "section": "Pulmonary Embolism",
+    "document": "Anticoagulation and VTE Management",
+    "category": "Hematology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 393
+  },
+  {
+    "id": "9f258e5edf98",
+    "text": "sPESI scoring: age greater than 80, cancer, heart failure/chronic lung disease, HR 110+, systolic BP less than 100, SpO2 less than 90%. Anticoagulation same as DVT. Duration: provoked PE 3 months, unprovoked PE consider indefinite.",
+    "section": "Pulmonary Embolism",
+    "document": "Anticoagulation and VTE Management",
+    "category": "Hematology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 231
+  },
+  {
+    "id": "19efec07e30b",
+    "text": "Warfarin dosing: start 5 mg daily (2-3 mg in elderly, low body weight, or liver disease). Monitor INR daily until stable, then weekly, then every 4 weeks. Therapeutic INR range: 2-3 for most indications, 2.5-3.5 for mechanical mitral valve. Drug interactions: major potentiators - amiodarone, fluconazole, metronidazole, TMP-SMX. Major inhibitors - rifampin, carbamazepine, phenytoin. Dietary vitamin K interaction: consistent intake recommended.",
+    "section": "Warfarin Management",
+    "document": "Anticoagulation and VTE Management",
+    "category": "Hematology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 446
+  },
+  {
+    "id": "eadf1faa5264",
+    "text": "Supratherapeutic INR management: INR 4.5-10 without bleeding - hold warfarin. INR greater than 10 without bleeding - oral vitamin K 2.5-5 mg. Active major bleeding - IV vitamin K 10 mg plus 4-factor PCC.",
+    "section": "Warfarin Management",
+    "document": "Anticoagulation and VTE Management",
+    "category": "Hematology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 203
+  },
+  {
+    "id": "762c7498b6e8",
+    "text": "Assess thrombotic vs bleeding risk. High thrombotic risk (mechanical heart valve, recent VTE within 3 months, high CHA2DS2-VASc): bridging with LMWH. Low thrombotic risk: no bridging needed. Warfarin: stop 5 days before surgery (INR 1.5 or less). DOACs: stop 2-3 days before (24-48 hours for procedures with low bleeding risk, 48-72 hours for high bleeding risk). Longer hold if CrCl less than 50 mL/min. Resume anticoagulation 24-72 hours postoperatively based on hemostasis and bleeding risk.",
+    "section": "Perioperative Anticoagulation",
+    "document": "Anticoagulation and VTE Management",
+    "category": "Hematology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 494
+  },
+  {
+    "id": "d0db659afb48",
+    "text": "Neuraxial anesthesia: hold LMWH for 12 hours before, restart 4 hours after catheter removal.",
+    "section": "Perioperative Anticoagulation",
+    "document": "Anticoagulation and VTE Management",
+    "category": "Hematology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 92
+  },
+  {
+    "id": "e130b829a54f",
+    "text": "CKD staging based on GFR: Stage 1 - GFR 90+ mL/min (kidney damage with normal GFR). Stage 2 - GFR 60-89 mL/min (mild decrease). Stage 3a - GFR 45-59 mL/min (mild-moderate). Stage 3b - GFR 30-44 mL/min (moderate-severe). Stage 4 - GFR 15-29 mL/min (severe). Stage 5 - GFR less than 15 mL/min (kidney failure). Albuminuria categories: A1 (less than 30 mg/g), A2 (30-300 mg/g), A3 (greater than 300 mg/g). CKD diagnosis requires GFR less than 60 or markers of kidney damage for 3+ months.",
+    "section": "Staging and Classification",
+    "document": "Chronic Kidney Disease Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 485
+  },
+  {
+    "id": "1f3d61fd3b99",
+    "text": "BP target less than 130/80 mmHg. ACE inhibitors or ARBs are first-line for CKD with albuminuria. SGLT2 inhibitors (dapagliflozin 10 mg, empagliflozin 10 mg) recommended for CKD with eGFR 20-75 and UACR 200+ mg/g. Finerenone (non-steroidal MRA) for T2DM with CKD and albuminuria. Glycemic target HbA1c less than 7% for diabetic CKD. Avoid NSAIDs. Adjust medication doses for GFR. Metformin: reduce dose if GFR 30-45, stop if less than 30. Dietary protein: 0.8 g/kg/day for GFR less than 30.",
+    "section": "Management and Slowing Progression",
+    "document": "Chronic Kidney Disease Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 489
+  },
+  {
+    "id": "fede09078b18",
+    "text": "Sodium restriction less than 2 g/day.",
+    "section": "Management and Slowing Progression",
+    "document": "Chronic Kidney Disease Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 37
+  },
+  {
+    "id": "e1fee1af702e",
+    "text": "Anemia: check hemoglobin, iron studies. Start ESA (epoetin alfa, darbepoetin) when Hgb less than 10 g/dL after iron repletion. Target Hgb 10-11.5 g/dL. Iron: target ferritin 200-500 ng/mL, TSAT 20-30%. IV iron preferred in dialysis. Metabolic acidosis: oral sodium bicarbonate to maintain serum bicarb 22-26 mEq/L. Hyperkalemia: dietary restriction, patiromer 8.4 g daily, or sodium zirconium cyclosilicate 10 g three times daily.",
+    "section": "Complications Management",
+    "document": "Chronic Kidney Disease Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 430
+  },
+  {
+    "id": "e2961d7855be",
+    "text": "CKD-MBD: phosphate binders (sevelamer, calcium acetate), target phosphorus 2.5-4.5 mg/dL. Active vitamin D if PTH elevated.",
+    "section": "Complications Management",
+    "document": "Chronic Kidney Disease Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 123
+  },
+  {
+    "id": "614e1d6c6bfa",
+    "text": "Refer to nephrologist at GFR less than 30. Dialysis access planning: AV fistula creation at GFR 15-20. Start dialysis when symptomatic uremia, refractory hyperkalemia, volume overload, or GFR less than 5-10. Hemodialysis: typically 3 sessions per week, 3-5 hours each. Peritoneal dialysis: daily exchanges. Kidney transplant evaluation: refer when GFR less than 20. Living donor preferred. Pre-transplant workup includes cardiac evaluation, cancer screening, infection screening.",
+    "section": "Dialysis and Transplant Preparation",
+    "document": "Chronic Kidney Disease Management",
+    "category": "Nephrology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 479
+  },
+  {
+    "id": "492aa77c406b",
+    "text": "Post-transplant immunosuppression: tacrolimus + mycophenolate + prednisone.",
+    "section": "Dialysis and Transplant Preparation",
+    "document": "Chronic Kidney Disease Management",
+    "category": "Nephrology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 75
+  },
+  {
+    "id": "a1fa19769773",
+    "text": "Anaphylaxis criteria (any one): 1) Acute onset of skin/mucosal symptoms PLUS respiratory compromise OR hypotension. 2) Two or more of: skin/mucosal symptoms, respiratory compromise, hypotension, persistent GI symptoms occurring rapidly after exposure to likely allergen. 3) Hypotension after exposure to known allergen. Common triggers: foods (peanuts, tree nuts, shellfish, milk, eggs), medications (penicillin, NSAIDs), insect stings (Hymenoptera), latex.",
+    "section": "Recognition and Diagnosis",
+    "document": "Anaphylaxis Management",
+    "category": "Emergency Medicine",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 457
+  },
+  {
+    "id": "e3f10077746f",
+    "text": "Biphasic reaction occurs in 5-20% of cases, usually within 8-12 hours.",
+    "section": "Recognition and Diagnosis",
+    "document": "Anaphylaxis Management",
+    "category": "Emergency Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 70
+  },
+  {
+    "id": "fa62a31d69df",
+    "text": "Epinephrine is the FIRST-LINE treatment. Administer immediately IM in the mid-outer thigh: Adults 0.3-0.5 mg (0.3-0.5 mL of 1:1000 solution). Children 0.01 mg/kg (max 0.3 mg). Can repeat every 5-15 minutes if needed. Place patient supine with legs elevated (unless respiratory distress). Establish IV access with large bore catheter. Normal saline bolus 1-2 L for hypotension (20 mL/kg in children). Remove trigger if possible. For refractory anaphylaxis: epinephrine IV infusion 0.1-1 mcg/kg/min. Call for help early.",
+    "section": "Immediate Treatment",
+    "document": "Anaphylaxis Management",
+    "category": "Emergency Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 518
+  },
+  {
+    "id": "27d2984bba2c",
+    "text": "H1 antihistamine: diphenhydramine 25-50 mg IV/IM (1 mg/kg in children). H2 blocker: famotidine 20 mg IV. Bronchospasm: albuterol 2.5-5 mg nebulized every 20 minutes. Corticosteroids: methylprednisolone 1-2 mg/kg IV or prednisone 1 mg/kg PO (may help prevent biphasic reaction, but NOT a substitute for epinephrine). Glucagon 1-5 mg IV for patients on beta-blockers who are refractory to epinephrine. IMPORTANT: Antihistamines and corticosteroids do NOT replace epinephrine as first-line treatment.",
+    "section": "Adjunctive Medications",
+    "document": "Anaphylaxis Management",
+    "category": "Emergency Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 497
+  },
+  {
+    "id": "5d4570638260",
+    "text": "Minimum observation period: 4-6 hours for mild reactions, 8-12 hours for severe reactions or history of biphasic reactions. Discharge with: epinephrine auto-injector prescription (EpiPen 0.3 mg for adults, 0.15 mg for children 15-30 kg), anaphylaxis action plan, allergy referral, instructions to return if symptoms recur. Prescribe 3-day course of prednisone 40-60 mg daily. Educate on trigger avoidance and early recognition. Medical alert identification recommended.",
+    "section": "Observation and Discharge",
+    "document": "Anaphylaxis Management",
+    "category": "Emergency Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 469
+  },
+  {
+    "id": "465e61651699",
+    "text": "Clinical features: cough, fever, dyspnea, pleuritic chest pain, sputum production. Physical exam: crackles, bronchial breath sounds, dullness to percussion. Chest X-ray for diagnosis confirmation. Blood cultures if hospitalized. Sputum culture and Gram stain for inpatients. Urinary antigens for Legionella and Streptococcus pneumoniae. Procalcitonin to guide antibiotic therapy.",
+    "section": "Community-Acquired Pneumonia Diagnosis",
+    "document": "Pneumonia Management",
+    "category": "Infectious Disease",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 379
+  },
+  {
+    "id": "f59b8e73868e",
+    "text": "Procalcitonin to guide antibiotic therapy. Severity assessment: CURB-65 score: Confusion, Urea greater than 7 mmol/L (BUN greater than 20 mg/dL), Respiratory rate 30+, BP systolic less than 90 or diastolic 60 or less, Age 65+. Score 0-1: outpatient. Score 2: consider hospitalization. Score 3-5: hospitalize, consider ICU.",
+    "section": "Community-Acquired Pneumonia Diagnosis",
+    "document": "Pneumonia Management",
+    "category": "Infectious Disease",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 322
+  },
+  {
+    "id": "a2b2a1bed8ed",
+    "text": "Healthy adults without comorbidities: amoxicillin 1 g three times daily for 5-7 days, OR doxycycline 100 mg twice daily for 5-7 days, OR azithromycin 500 mg day 1 then 250 mg for 4 days (if local resistance less than 25%). Adults with comorbidities (chronic heart, lung, liver, renal disease, diabetes, alcoholism, malignancy, asplenia): amoxicillin-clavulanate 875/125 mg twice daily OR cephalosporin (cefpodoxime 200 mg twice daily) PLUS macrolide (azithromycin) or doxycycline.",
+    "section": "Outpatient Treatment",
+    "document": "Pneumonia Management",
+    "category": "Infectious Disease",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 480
+  },
+  {
+    "id": "af55756d24fd",
+    "text": "Alternative: respiratory fluoroquinolone monotherapy (levofloxacin 750 mg daily or moxifloxacin 400 mg daily).",
+    "section": "Outpatient Treatment",
+    "document": "Pneumonia Management",
+    "category": "Infectious Disease",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 110
+  },
+  {
+    "id": "670781670a74",
+    "text": "Non-severe inpatient: beta-lactam (ampicillin-sulbactam 1.5-3 g IV every 6 hours, ceftriaxone 1-2 g IV daily, or cefotaxime 1-2 g IV every 8 hours) PLUS macrolide (azithromycin 500 mg IV/PO daily) or respiratory fluoroquinolone monotherapy. Severe CAP (ICU admission): beta-lactam (ceftriaxone 2 g IV daily or ampicillin-sulbactam 3 g IV every 6 hours) PLUS macrolide (azithromycin 500 mg IV daily) or fluoroquinolone.",
+    "section": "Inpatient Treatment",
+    "document": "Pneumonia Management",
+    "category": "Infectious Disease",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 418
+  },
+  {
+    "id": "4edca845ec25",
+    "text": "If risk factors for MRSA: add vancomycin 15-20 mg/kg IV every 8-12 hours or linezolid 600 mg IV every 12 hours. If risk for Pseudomonas: use piperacillin-tazobactam 4.5 g IV every 6 hours, cefepime 2 g IV every 8 hours, or meropenem 1 g IV every 8 hours.",
+    "section": "Inpatient Treatment",
+    "document": "Pneumonia Management",
+    "category": "Infectious Disease",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 254
+  },
+  {
+    "id": "da0d3687e5b8",
+    "text": "Minimum 5 days of treatment. Patient should be afebrile for 48-72 hours and clinically stable before stopping. Clinical stability criteria: temperature 37.8°C or less, heart rate 100 or less, respiratory rate 24 or less, systolic BP 90 or greater, SpO2 90% or greater on room air, able to take oral medication. Switch from IV to oral when clinically stable. Follow-up chest X-ray at 6-8 weeks for patients over 50 to rule out underlying malignancy.",
+    "section": "Duration and Follow-Up",
+    "document": "Pneumonia Management",
+    "category": "Infectious Disease",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 448
+  },
+  {
+    "id": "251fde196597",
+    "text": "Pneumococcal vaccination for all adults 65+ and those with risk factors.",
+    "section": "Duration and Follow-Up",
+    "document": "Pneumonia Management",
+    "category": "Infectious Disease",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 72
+  },
+  {
+    "id": "f8605dbcc4eb",
+    "text": "KDIGO AKI staging: Stage 1 - serum creatinine increase 1.5-1.9 times baseline OR increase 0.3 mg/dL or greater within 48 hours OR urine output less than 0.5 mL/kg/hr for 6-12 hours. Stage 2 - creatinine 2.0-2.9 times baseline OR urine output less than 0.5 mL/kg/hr for 12+ hours. Stage 3 - creatinine 3.0+ times baseline OR increase to 4.0+ mg/dL OR initiation of RRT OR urine output less than 0.3 mL/kg/hr for 24+ hours OR anuria for 12+ hours. Causes: Pre-renal (volume depletion, heart failure, sepsis) 55-60%.",
+    "section": "Definition and Staging",
+    "document": "Acute Kidney Injury Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 513
+  },
+  {
+    "id": "b84e6f509d39",
+    "text": "Intrinsic (ATN, AIN, glomerulonephritis) 35-40%. Post-renal (obstruction) 5%.",
+    "section": "Definition and Staging",
+    "document": "Acute Kidney Injury Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 77
+  },
+  {
+    "id": "0e131479ca3d",
+    "text": "Initial evaluation: review medications (NSAIDs, ACE inhibitors, aminoglycosides, contrast agents). Check urine output trend. Physical exam for volume status. Labs: BMP, CBC, urinalysis with microscopy, urine electrolytes. FENa less than 1% suggests pre-renal etiology. FENa greater than 2% suggests intrinsic renal disease. Muddy brown granular casts indicate ATN. White cell casts suggest AIN or pyelonephritis. Red cell casts suggest glomerulonephritis. Renal ultrasound to evaluate for hydronephrosis (obstruction).",
+    "section": "Evaluation and Workup",
+    "document": "Acute Kidney Injury Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 518
+  },
+  {
+    "id": "b105f1b00d5a",
+    "text": "Consider renal biopsy if diagnosis unclear and findings will change management.",
+    "section": "Evaluation and Workup",
+    "document": "Acute Kidney Injury Management",
+    "category": "Nephrology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 79
+  },
+  {
+    "id": "ba63b49ee938",
+    "text": "Pre-renal AKI: volume resuscitation with balanced crystalloids. Target MAP 65 mmHg or greater. Discontinue nephrotoxic medications. Intrinsic AKI: supportive care, treat underlying cause. AIN: discontinue offending drug, consider corticosteroids (prednisone 1 mg/kg/day for 2-3 weeks then taper). Post-renal AKI: emergent urologic consultation for catheter placement or ureteral stent. Monitor for post-obstructive diuresis. Avoid contrast agents during AKI. Adjust all medication doses for decreased GFR.",
+    "section": "Treatment",
+    "document": "Acute Kidney Injury Management",
+    "category": "Nephrology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 505
+  },
+  {
+    "id": "3ee67af80c3b",
+    "text": "Adjust all medication doses for decreased GFR. Maintain euvolemia. Monitor potassium closely and treat hyperkalemia aggressively.",
+    "section": "Treatment",
+    "document": "Acute Kidney Injury Management",
+    "category": "Nephrology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 129
+  },
+  {
+    "id": "61030b57d1c7",
+    "text": "Indications for urgent dialysis (AEIOU): Acidosis - severe metabolic acidosis (pH less than 7.1) refractory to bicarbonate. Electrolytes - severe hyperkalemia (K+ greater than 6.5 mEq/L) refractory to medical therapy. Intoxication - dialyzable toxins (methanol, ethylene glycol, lithium, salicylates). Overload - volume overload refractory to diuretics. Uremia - uremic symptoms (encephalopathy, pericarditis, bleeding). CRRT (continuous renal replacement therapy) preferred in hemodynamically unstable patients.",
+    "section": "Renal Replacement Therapy",
+    "document": "Acute Kidney Injury Management",
+    "category": "Nephrology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 512
+  },
+  {
+    "id": "38c5e4787022",
+    "text": "IHD (intermittent hemodialysis) for stable patients.",
+    "section": "Renal Replacement Therapy",
+    "document": "Acute Kidney Injury Management",
+    "category": "Nephrology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 52
+  },
+  {
+    "id": "1062d534cbe4",
+    "text": "Causes: peptic ulcer disease (most common, 35-50%), variceal bleeding, Mallory-Weiss tear, erosive gastritis, malignancy. Presentation: hematemesis, melena, coffee-ground emesis. Glasgow-Blatchford Score for risk stratification: score 0-1 may be managed outpatient. Initial management: two large-bore IV lines (16-18 gauge), crystalloid resuscitation. Transfuse PRBCs if hemoglobin less than 7 g/dL (less than 8 g/dL if active CAD).",
+    "section": "Upper GI Bleeding",
+    "document": "Gastrointestinal Bleeding Management",
+    "category": "Gastroenterology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 432
+  },
+  {
+    "id": "9c59446f1bf3",
+    "text": "PPI therapy: IV pantoprazole 80 mg bolus then 8 mg/hr infusion for suspected peptic ulcer. Esophagogastroduodenoscopy (EGD) within 24 hours of presentation, within 12 hours if high risk.",
+    "section": "Upper GI Bleeding",
+    "document": "Gastrointestinal Bleeding Management",
+    "category": "Gastroenterology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 186
+  },
+  {
+    "id": "b5e4dd834c61",
+    "text": "Suspect in patients with known or suspected liver cirrhosis. Vasoactive agent: octreotide 50 mcg IV bolus then 50 mcg/hr infusion for 2-5 days. Prophylactic antibiotics: ceftriaxone 1 g IV daily for 7 days (reduces mortality). Restrictive transfusion: target hemoglobin 7-8 g/dL. Avoid over-resuscitation which increases portal pressure. Emergent EGD with band ligation (preferred over sclerotherapy) within 12 hours. If uncontrolled: balloon tamponade (Sengstaken-Blakemore tube) as bridge to TIPS.",
+    "section": "Variceal Bleeding",
+    "document": "Gastrointestinal Bleeding Management",
+    "category": "Gastroenterology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 499
+  },
+  {
+    "id": "c2373626442c",
+    "text": "TIPS (transjugular intrahepatic portosystemic shunt) for refractory bleeding. Secondary prophylaxis: non-selective beta-blocker (propranolol, nadolol) plus band ligation.",
+    "section": "Variceal Bleeding",
+    "document": "Gastrointestinal Bleeding Management",
+    "category": "Gastroenterology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 170
+  },
+  {
+    "id": "eb2618cdf3e3",
+    "text": "Causes: diverticulosis (most common, 30-40%), angiodysplasia, colorectal cancer, hemorrhoids, inflammatory bowel disease. Presentation: hematochezia (bright red blood per rectum). Risk stratification: hemodynamic instability, active bleeding, comorbidities. Colonoscopy within 24 hours after adequate bowel preparation. CT angiography if hemodynamically unstable or massive bleeding (identifies bleeding rates 0.3-0.5 mL/min or greater). Interventional radiology embolization for active bleeding identified on CTA.",
+    "section": "Lower GI Bleeding",
+    "document": "Gastrointestinal Bleeding Management",
+    "category": "Gastroenterology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 514
+  },
+  {
+    "id": "eab337ca1f77",
+    "text": "Surgery (segmental colectomy) for persistent, life-threatening bleeding not amenable to endoscopic or IR intervention.",
+    "section": "Lower GI Bleeding",
+    "document": "Gastrointestinal Bleeding Management",
+    "category": "Gastroenterology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 118
+  },
+  {
+    "id": "cc9ea0915d5a",
+    "text": "Hold anticoagulation in active major bleeding. Warfarin: IV vitamin K 10 mg plus 4-factor PCC (25-50 units/kg) for life-threatening bleeding. Dabigatran: idarucizumab 5 g IV (Praxbind). Rivaroxaban/Apixaban: andexanet alfa (800 mg bolus then 960 mg infusion if last dose within 8 hours). If reversal agent unavailable: PCC 50 units/kg. Resume anticoagulation when hemostasis achieved: typically 7-14 days for high thrombotic risk, individualize based on bleeding and clotting risk.",
+    "section": "Anticoagulant-Associated Bleeding",
+    "document": "Gastrointestinal Bleeding Management",
+    "category": "Gastroenterology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 481
+  },
+  {
+    "id": "5b6977378b78",
+    "text": "GI prophylaxis: PPI co-prescription for patients on anticoagulation with GI risk factors.",
+    "section": "Anticoagulant-Associated Bleeding",
+    "document": "Gastrointestinal Bleeding Management",
+    "category": "Gastroenterology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 89
+  },
+  {
+    "id": "041358f88564",
+    "text": "Diagnosis: elevated TSH with low free T4 (overt) or elevated TSH with normal free T4 (subclinical). Most common cause: Hashimoto's thyroiditis. Treatment: levothyroxine replacement. Starting dose: 1.6 mcg/kg/day for healthy adults, start lower (25-50 mcg/day) in elderly or cardiac disease. Take on empty stomach 30-60 minutes before breakfast. Recheck TSH in 6-8 weeks after dose change. Target TSH 0.5-4.5 mIU/L (lower end for younger patients). Drug interactions: separate from calcium, iron, antacids by 4 hours.",
+    "section": "Hypothyroidism",
+    "document": "Thyroid Disorders Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 516
+  },
+  {
+    "id": "9f04560d5bf4",
+    "text": "Subclinical hypothyroidism: treat if TSH greater than 10 mIU/L, or TSH 7-10 with symptoms or positive TPO antibodies. In pregnancy, maintain TSH less than 2.5 mIU/L in first trimester.",
+    "section": "Hypothyroidism",
+    "document": "Thyroid Disorders Management",
+    "category": "Endocrinology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 184
+  },
+  {
+    "id": "ab740dcdd70a",
+    "text": "Diagnosis: suppressed TSH with elevated free T4 and/or free T3. Causes: Graves' disease (most common), toxic multinodular goiter, toxic adenoma, thyroiditis. Graves' disease: diffuse goiter, ophthalmopathy, positive TSH receptor antibodies (TRAb). Treatment options: 1) Antithyroid drugs: methimazole 5-30 mg daily (preferred), propylthiouracil 100-150 mg three times daily (preferred in first trimester pregnancy and thyroid storm).",
+    "section": "Hyperthyroidism",
+    "document": "Thyroid Disorders Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 433
+  },
+  {
+    "id": "f114b78e103d",
+    "text": "2) Radioactive iodine (RAI) ablation: contraindicated in pregnancy, moderate-severe Graves' ophthalmopathy. 3) Thyroidectomy: for large goiters, suspicious nodules, or contraindications to other treatments. Beta-blockers (propranolol 20-40 mg three times daily) for symptomatic relief.",
+    "section": "Hyperthyroidism",
+    "document": "Thyroid Disorders Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 285
+  },
+  {
+    "id": "5bb1d06e6488",
+    "text": "Thyroid storm is a life-threatening emergency. Burch-Wartofsky score greater than 45 is highly suggestive. Treatment: 1) Propylthiouracil 500-1000 mg loading then 250 mg every 4 hours (blocks synthesis and peripheral conversion). 2) Iodine solution (SSKI 5 drops every 6 hours) given 1 hour AFTER PTU. 3) Propranolol 60-80 mg every 4-6 hours (or esmolol infusion). 4) Hydrocortisone 100 mg IV every 8 hours (blocks T4 to T3 conversion, treats relative adrenal insufficiency).",
+    "section": "Thyroid Storm",
+    "document": "Thyroid Disorders Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 475
+  },
+  {
+    "id": "b335205ce6f7",
+    "text": "5) Cooling measures for hyperthermia (avoid aspirin). Supportive care: IV fluids, glucose, electrolyte correction. ICU admission required.",
+    "section": "Thyroid Storm",
+    "document": "Thyroid Disorders Management",
+    "category": "Endocrinology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 138
+  },
+  {
+    "id": "e1586bd8a816",
+    "text": "Thyroid nodules found in 50-60% of adults on ultrasound. Evaluation: TSH first. If low TSH, obtain thyroid scan (hot nodules are rarely malignant). If normal/high TSH, evaluate with ultrasound. FNA biopsy based on size and ultrasound features: highly suspicious nodules 1 cm or greater, intermediate suspicion 1.5 cm or greater, low suspicion 2 cm or greater, very low suspicion 2.5 cm or greater or observe.",
+    "section": "Thyroid Nodules",
+    "document": "Thyroid Disorders Management",
+    "category": "Endocrinology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 408
+  },
+  {
+    "id": "f991e60bd907",
+    "text": "Bethesda classification: I (non-diagnostic), II (benign), III (AUS/FLUS), IV (follicular neoplasm), V (suspicious for malignancy), VI (malignant). Molecular testing for indeterminate nodules (Bethesda III-IV).",
+    "section": "Thyroid Nodules",
+    "document": "Thyroid Disorders Management",
+    "category": "Endocrinology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 209
+  },
+  {
+    "id": "b31536a6ee5c",
+    "text": "Warfarin interactions: Potentiators (increased bleeding risk): amiodarone increases INR by 30-50%, fluconazole, metronidazole, ciprofloxacin, TMP-SMX, cranberry juice. Inhibitors (decreased effect): rifampin, carbamazepine, phenytoin, St. John's wort. ACE inhibitor + potassium-sparing diuretic = hyperkalemia risk. Monitor potassium within 1 week. Metformin + iodinated contrast = lactic acidosis risk. Hold metformin 48 hours before and after. Simvastatin + amiodarone: max simvastatin dose 20 mg.",
+    "section": "Critical Drug Interactions",
+    "document": "Drug Interactions and Safety",
+    "category": "Pharmacology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 499
+  },
+  {
+    "id": "b58b9a64483c",
+    "text": "Fluoxetine/paroxetine + tramadol = serotonin syndrome risk. QT-prolonging drugs (amiodarone + fluoroquinolones + antipsychotics): additive QTc prolongation risk.",
+    "section": "Critical Drug Interactions",
+    "document": "Drug Interactions and Safety",
+    "category": "Pharmacology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 161
+  },
+  {
+    "id": "c24ec170c4b0",
+    "text": "Common medications requiring renal adjustment: Metformin: full dose if GFR 45+, reduce if 30-45, stop if less than 30. Gabapentin: 300-1200 mg TID if GFR 60+, 200-700 mg TID if 30-59, 100-300 mg daily if 15-29, 100-300 mg after dialysis if less than 15. Enoxaparin: 1 mg/kg Q12h if GFR 30+, 1 mg/kg Q24h if less than 30. DOACs: apixaban 5 mg BID (2.5 mg if Cr 1.5+ with age 80+ or weight 60 kg or less), rivaroxaban 20 mg daily if GFR 50+, 15 mg daily if 15-49.",
+    "section": "Renal Dose Adjustments",
+    "document": "Drug Interactions and Safety",
+    "category": "Pharmacology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 461
+  },
+  {
+    "id": "37597ed37842",
+    "text": "Vancomycin: dose by levels, target trough AUC/MIC 400-600. Gentamicin: extend interval for GFR less than 60.",
+    "section": "Renal Dose Adjustments",
+    "document": "Drug Interactions and Safety",
+    "category": "Pharmacology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 108
+  },
+  {
+    "id": "15161bd51ae8",
+    "text": "Child-Pugh classification guides dose adjustments. Class A (5-6 points): usually no adjustment. Class B (7-9 points): reduce dose for many drugs. Class C (10-15 points): avoid hepatically metabolized drugs when possible. Avoid or reduce: acetaminophen (max 2 g/day in liver disease), statins (avoid in active liver disease, check LFTs), methotrexate (hepatotoxic), amiodarone (hepatotoxic, monitor LFTs quarterly). NSAIDs increase bleeding risk in cirrhosis.",
+    "section": "Hepatic Dose Adjustments",
+    "document": "Drug Interactions and Safety",
+    "category": "Pharmacology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 458
+  },
+  {
+    "id": "bb8c927fdf90",
+    "text": "NSAIDs increase bleeding risk in cirrhosis. Benzodiazepines: use lorazepam, oxazepam (no hepatic metabolism). Opioids: reduce dose by 50% in severe liver disease.",
+    "section": "Hepatic Dose Adjustments",
+    "document": "Drug Interactions and Safety",
+    "category": "Pharmacology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 162
+  },
+  {
+    "id": "9f6eaac4a6a5",
+    "text": "Category X (Contraindicated): warfarin (teratogenic, use LMWH), statins, ACE inhibitors/ARBs (fetal renal toxicity), methotrexate, isotretinoin, valproic acid. Safe medications: Hypertension: labetalol, nifedipine, methyldopa. Diabetes: insulin (preferred), metformin may be continued. Antibiotics: penicillins, cephalosporins, azithromycin are safe. Avoid: fluoroquinolones, tetracyclines, aminoglycosides. Pain: acetaminophen is preferred. Avoid NSAIDs in third trimester (premature ductus closure).",
+    "section": "Medication Safety in Pregnancy",
+    "document": "Drug Interactions and Safety",
+    "category": "Pharmacology",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 501
+  },
+  {
+    "id": "faf1db7559c4",
+    "text": "Anticoagulation: LMWH (enoxaparin) is safe. Seizures: levetiracetam and lamotrigine are preferred. Supplement: folic acid 0.4-4 mg daily (higher dose if prior NTD).",
+    "section": "Medication Safety in Pregnancy",
+    "document": "Drug Interactions and Safety",
+    "category": "Pharmacology",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 164
+  },
+  {
+    "id": "0651d5bba15a",
+    "text": "Normal potassium: 3.5-5.0 mEq/L. Mild hyperkalemia: 5.1-5.9 mEq/L. Moderate: 6.0-6.4 mEq/L. Severe: 6.5 mEq/L or greater. ECG changes: peaked T waves, widened QRS, loss of P waves, sine wave pattern. Causes: renal failure, ACE inhibitors/ARBs, potassium-sparing diuretics, rhabdomyolysis, acidosis. Treatment: Calcium gluconate 10% 10-20 mL IV over 2-5 minutes (membrane stabilization, does NOT lower K+). Regular insulin 10 units IV + dextrose 25 g IV (lowers K+ by 0.5-1.5 mEq/L in 15-30 minutes).",
+    "section": "Hyperkalemia",
+    "document": "Electrolyte Disorders Management",
+    "category": "Internal Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 499
+  },
+  {
+    "id": "871e23c51e16",
+    "text": "Albuterol 10-20 mg nebulized. Sodium bicarbonate 50 mEq IV if acidotic. Sodium polystyrene sulfonate 15-60 g PO or patiromer 8.4 g PO for chronic management. Emergent dialysis if refractory.",
+    "section": "Hyperkalemia",
+    "document": "Electrolyte Disorders Management",
+    "category": "Internal Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 190
+  },
+  {
+    "id": "87454a230602",
+    "text": "Normal sodium: 136-145 mEq/L. Mild hyponatremia: 130-135 mEq/L. Moderate: 125-129 mEq/L. Severe: less than 125 mEq/L. Classification by volume status: Hypovolemic (dehydration, diuretics), euvolemic (SIADH, hypothyroidism, adrenal insufficiency), hypervolemic (heart failure, cirrhosis, nephrotic syndrome). Treatment: Hypovolemic - normal saline. Euvolemic (SIADH) - fluid restriction 1-1.5 L/day, consider tolvaptan 15 mg daily. Hypervolemic - fluid restriction, diuretics.",
+    "section": "Hyponatremia",
+    "document": "Electrolyte Disorders Management",
+    "category": "Internal Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 475
+  },
+  {
+    "id": "5bb32f268790",
+    "text": "Hypervolemic - fluid restriction, diuretics. CRITICAL: correct sodium no faster than 8 mEq/L in 24 hours to avoid osmotic demyelination syndrome (ODS). For severe symptomatic hyponatremia: 3% hypertonic saline 100-150 mL IV over 20 minutes, repeat up to 3 times. Check sodium every 2 hours.",
+    "section": "Hyponatremia",
+    "document": "Electrolyte Disorders Management",
+    "category": "Internal Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 290
+  },
+  {
+    "id": "ddbbd99a5a1e",
+    "text": "Normal calcium: 8.5-10.5 mg/dL. Correct for albumin: corrected Ca = measured Ca + 0.8 x (4.0 - albumin). Mild: 10.5-12 mg/dL. Moderate: 12-14 mg/dL. Severe: greater than 14 mg/dL. Most common causes: primary hyperparathyroidism (outpatient), malignancy (inpatient). Treatment: IV normal saline 200-300 mL/hr for initial rehydration. Calcitonin 4 IU/kg SubQ/IM every 12 hours (rapid onset, 24-48 hour efficacy). Zoledronic acid 4 mg IV over 15 minutes (onset 2-4 days, duration weeks).",
+    "section": "Hypercalcemia",
+    "document": "Electrolyte Disorders Management",
+    "category": "Internal Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 484
+  },
+  {
+    "id": "64b14576fd5b",
+    "text": "For hyperparathyroidism: parathyroidectomy is definitive. Denosumab 120 mg SubQ for refractory cases. Avoid thiazide diuretics (worsen hypercalcemia).",
+    "section": "Hypercalcemia",
+    "document": "Electrolyte Disorders Management",
+    "category": "Internal Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 150
+  },
+  {
+    "id": "276b2807e59e",
+    "text": "Normal magnesium: 1.7-2.2 mg/dL. Causes: diuretics (loop and thiazide), alcohol use, PPI use, diarrhea, renal wasting. Symptoms: tremor, hyperreflexia, seizures, cardiac arrhythmias (including torsades de pointes). Treatment: Mild (1.0-1.7 mg/dL): oral magnesium oxide 400-800 mg daily. Severe (less than 1.0 mg/dL) or symptomatic: magnesium sulfate 1-2 g IV over 1 hour, can give 4-8 g over 12-24 hours. For torsades de pointes: magnesium sulfate 2 g IV push over 2-5 minutes.",
+    "section": "Hypomagnesemia",
+    "document": "Electrolyte Disorders Management",
+    "category": "Internal Medicine",
+    "has_numeric_data": true,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 477
+  },
+  {
+    "id": "a5fead0f7123",
+    "text": "Replace magnesium BEFORE correcting hypokalemia (hypomagnesemia causes refractory hypokalemia). Monitor renal function. Reduce dose if GFR less than 30.",
+    "section": "Hypomagnesemia",
+    "document": "Electrolyte Disorders Management",
+    "category": "Internal Medicine",
+    "has_numeric_data": false,
+    "metadata": {
+      "source": "Clinical Practice Guidelines",
+      "year": 2024
+    },
+    "char_length": 152
+  }
+]
